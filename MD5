@@ -1,12 +1,13 @@
-6ecf1ef8d8fef77a6dee6027ba6a078b *DESCRIPTION
+fce8540a4925eebcab5adeb09be41e92 *DESCRIPTION
 6e8294c64d1061d29a4fe59a7161c8b2 *LICENSE
 6143dbda1763a5a497338510270186da *NAMESPACE
-855df72a58c9a445b03bd417ccb8541b *R/glmbb.R
+612e69ed657761ea5aab9b121645e2ef *R/glmbb.R
 3a497f39282c6ea348bf08e781273495 *R/graph.R
 60cf9d4fdfed2f07ac774ff55d1ab9a9 *R/tidy.R
 366b23362fb50b9ad11000a8c0a48928 *data/crabs.txt.gz
+665694532c43830263e36c09406da70a *inst/NEWS.Rd
 412d63b9d4ff580f6f1bcbe726e0dc38 *man/crabs.Rd
-96554935496dc22b3ac556d4fdb7823a *man/glmbb.Rd
+5e1457b24d86b28723b38083f3e829a0 *man/glmbb.Rd
 dc8acfc7c17c9b26c51b8640906b50a3 *man/graph.Rd
 5dcbd94e903309bb9ebd6616fb09ebc2 *man/summary.glmbb.Rd
 33e585dce7fb4447da2adf4186b08d55 *man/tidy.Rd

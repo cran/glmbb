@@ -1,7 +1,8 @@
-3f2a7744d3c22847d1417454a62ed968 *DESCRIPTION
+0b24e05dc33800fc1d0086f729a6cedd *ChangeLog
+dc46ee41ff85e8031eb4f4a2574ab6d7 *DESCRIPTION
 6e8294c64d1061d29a4fe59a7161c8b2 *LICENSE
 2bb1e7687874eacdcad6e6cc09d63beb *NAMESPACE
-76a0187699fc3cb313be4816cbbe4085 *R/glmbb.R
+504adeb30b68b58b5d48a1b7bca5734d *R/glmbb.R
 3a497f39282c6ea348bf08e781273495 *R/graph.R
 60cf9d4fdfed2f07ac774ff55d1ab9a9 *R/tidy.R
 366b23362fb50b9ad11000a8c0a48928 *data/crabs.txt.gz
@@ -21,3 +22,5 @@ d269f270d0755577e1f1dbd23cb0f345 *tests/goo.R
 32bfa21318156ce90b894cf8240fffce *tests/goo.Rout.save
 541643b6b98d95a794b6cdb693ebc41f *tests/graph.R
 91ca9aa41fd48e5ecd4e90378aeea3a3 *tests/graph.Rout.save
+9bedfcb999d492733a13111b8e3d638f *tests/soo.R
+f362228632a8b026f3deb4e2f01304db *tests/soo.Rout.save
